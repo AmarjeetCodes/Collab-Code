@@ -3,7 +3,7 @@ import { useState } from 'react'
 //import viteLogo from '/editor.svg'
 import './style.css'
 import {Routes,BrowserRouter,Route} from 'react-router-dom'
-import Home from './pages/Home.JSX'
+import Home from './pages/Home.jsx'
 import EditorPage from './pages/EditorPage.jsx'
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
